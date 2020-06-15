@@ -17,6 +17,8 @@ Use your IDE to execute it. If you have MinGW installed, execute the code
 g++ interest.cpp -o interest && interest
 ```
 
+If you cannot compile the C++ then use the .exe file given.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
